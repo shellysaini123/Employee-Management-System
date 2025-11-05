@@ -79,4 +79,22 @@ Employee_Management_System/
 # Project Screenshots
 
 ### EMS
-![EMS](screenshots/ems.png
+![ems](screenshots/ems.png)
+### Login form
+![login](screenshots/login.png)
+### Home page
+![home](screenshots/home.png)
+### Add employee form
+![add](screenshots/add.png)
+### View employees
+![view](screenshots/view.png)
+### Remove employee
+![remove](screenshots/remove.png)
+
+# Author
+Shelly Saini
+Aspiring Software Developer
+
+# Connect with me
+[GitHub](https://github.com/shellysaini123)
+[LinkedIn](https://www.linkedin.com/in/shelly-saini-a13949250/)
